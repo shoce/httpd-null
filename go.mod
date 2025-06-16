@@ -1,3 +1,3 @@
-module src.iriy.de/httpd-null
+module github.com/shoce/httpd-null
 
-go 1.18
+go 1.24
